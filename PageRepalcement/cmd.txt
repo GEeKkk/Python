@@ -1,0 +1,2 @@
+pyinstaller --path C:\Users\PeakLu\AppData\Local\Programs\Python\Python35\Lib\site-packages\PyQt5\Qt\bin -F form.py
+pyuic5 -x x.ui -o x.py
