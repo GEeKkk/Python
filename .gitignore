@@ -9,4 +9,7 @@
 *.zip  
 *.via
 *.tmp
-*.err 
+*.err
+# word file
+*.doc
+*.docx
