@@ -1,0 +1,12 @@
+# compression file
+*.7z  
+*.dmg  
+*.gz  
+*.iso  
+*.jar  
+*.rar  
+*.tar  
+*.zip  
+*.via
+*.tmp
+*.err
